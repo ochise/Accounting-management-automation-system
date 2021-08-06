@@ -1,4 +1,4 @@
-# Management Automation System
+# Management Automation System Programmed in PHP
 An organizational enterprise software with eleven (8) sections;
 Human resources (staff) management
 Accounting (Records all financial transactions, all expenses, balance sheet, P & L, Ledger, Petty cash, Cashbook, Purchases, Sales account, generating finalcial transaction weekly, monthly and yearly, payroll generation, payee computation e.t.c) 
